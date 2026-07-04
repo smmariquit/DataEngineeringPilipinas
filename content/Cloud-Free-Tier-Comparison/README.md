@@ -39,7 +39,6 @@ Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 
 Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
 
-
 ### Free for Limited-time
 
 - US$200 credit for 30 days
@@ -56,8 +55,8 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 ### Always Free
 
 - Compute VM: 0.25 vCPU, 1 GB RAM (only on us-west1, us-central1 and us-east1)
-  - 30 GB of standard persistent disk
-  - 1 GB of network egress (except China and Australia)
+ - 30 GB of standard persistent disk
+ - 1 GB of network egress (except China and Australia)
 - BigQuery (SQL): 1 TB of querying per month and 10 GB of storage each month
 - Cloud Storage: 5 GB-months of regional storage (US regions only) per month
 
@@ -74,8 +73,8 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 ### Always Free
 
 - Compute: (Note- [1 Oracle OCPU = 2 vCPUs](https://blogs.oracle.com/cloud-infrastructure/post/vcpu-and-ocpu-pricing-information))
-  - 2 AMD-based VMs: 1/8 OCPU = 0.25 vCPU with 1 GB RAM each
-  - 4 Arm-based VMs: 24 GB RAM total, 3,000 OCPU hours and 18,000 GB memory hours per month
+ - 2 AMD-based VMs: 1/8 OCPU = 0.25 vCPU with 1 GB RAM each
+ - 4 Arm-based VMs: 24 GB RAM total, 3,000 OCPU hours and 18,000 GB memory hours per month
 - 2 Block Volumes Storage, 200 GB total
 - 10 GB Object Storage - Standard
 - 10 GB Object Storage - Infrequent Access
@@ -175,7 +174,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
 ### Free for Limited-time
 
--  Your FREE 30-Days Trial Now!
+- Your FREE 30-Days Trial Now!
 
 ### Always Free
 
